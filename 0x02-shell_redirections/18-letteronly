@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -l "A[a z]" /etc/ssh
+tr "A" "Z" | tr "c" "e"
