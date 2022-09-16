@@ -1,3 +1,2 @@
 #!/bin/bash
-chown -R betty:vincent .
-chgrp -R betty:staff .
+chown -R betty:vincent 
